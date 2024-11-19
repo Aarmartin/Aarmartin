@@ -1,2 +1,2 @@
 # Hello, I'm Aaron Martin
-- I am a graduate from the University of Minnesota, Duluth. I am currently interested in and working on projects involving AI and Machine Learning.
+- I graduated from the University of Minnesota, Duluth with a Bachelors Degree in Computer Science. I am currently pursing a Masters degree in Computer Science at the University of Denver, where my primary interest is in AI and Machine Learning.
